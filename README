@@ -1,0 +1,4 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=146
+
+Script for getting regular insert mode type completion, while on the command line.
+Originally posted by Stefan Roemer, allows completion without needing the commandline edit window.
